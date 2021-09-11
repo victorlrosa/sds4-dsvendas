@@ -1,4 +1,3 @@
-import { NumericLiteral } from "typescript"
 import { Seller } from "./seller"
 
 export type SaleSum = {
